@@ -1,0 +1,11 @@
+.head {
+    height: 9.45vh;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.imag {
+    height: 80vh;
+    width: 100%;
+}
